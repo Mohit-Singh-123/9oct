@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 1
 second
 third
 fourth
+=======
+1
+>>>>>>> parent of ed6d90c (commit 2)
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
